@@ -3,4 +3,4 @@
 #Temporada1
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/stranger-things.jpg" group-title="Temporada 1",stranger things
-https://www.dropbox.com/s/8zxie0k11d4sjel/thrw3c2.mp4?dl=0
+https://ia902706.us.archive.org/8/items/thrw4c1/thrw3c2.mp4
